@@ -11,5 +11,9 @@ body {
   
 /* Enter your styling here */
 body{ 
-  font
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: black;
+  margin: 0;
+  padding: ;
 }
