@@ -13,21 +13,25 @@ body {
 body{ 
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: black;
+  background-color: #f0f0f0;
   margin: 0;
   padding: 0;
 }
 
 .container{
   max-width: 400px;
-  margin: 0 auto;
+  margin: 35 auto;
   background-color: #fff;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
+  display: flex;
+  flex-direction: c;
 }
 
 .header{
   color: #fff;
-  text-align: ;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  font-size: 50px;
 }
